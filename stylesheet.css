@@ -1,0 +1,16 @@
+.headline{
+    font-weight: 300;
+    font-size: 40px;
+    color: #555;
+    margin-bottom: 0.25em;
+    padding: 6em 0 540px 0;
+    text-align: center;
+    position: relative;
+}
+
+.image{
+    background:url(sweden_boat.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
